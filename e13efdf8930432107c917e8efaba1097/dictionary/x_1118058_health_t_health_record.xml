@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="448e35fc930432107c917e8efaba101b" label="Health Record" max_length="40" name="x_1118058_health_t_health_record" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Health" max_length="40" name="health" type="string"/>
+    </element>
+</database>
